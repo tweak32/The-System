@@ -1,0 +1,2 @@
+THE SYSTEM — initial build
+Upload the six app files (index.html, style.css, app.js, manifest.json, sw.js, icon.png) to the root of a GitHub Pages repository. Open the published URL in Safari and use Share > Add to Home Screen. Keep the same URL for future updates. Export backups regularly. This initial build uses simple browser prompts for editing tasks and quests; device testing is still required.
